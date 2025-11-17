@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+:root {
+  --color-night: #0c0516;
+  --color-deep-night: #261e3e;
+  --color-iris: #414a6c;
+  --color-lilac: #809cc1;
+  --color-slate: #2b3153;
+  --color-steel: #505870;
+  --color-silver: #86939b;
+  --color-ice: #efefef;
+  --color-highlight: #8ba7ff;
+
+  --background: var(--color-night);
+  --foreground: var(--color-ice);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background: radial-gradient(circle at top, #261e3e 0%, #0c0516 55%)
+    fixed;
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), "Inter", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: 0.01em;
+}
+
+.bg-deep-night {
+  background-color: var(--color-night);
+}
+
+.text-soft-ice {
+  color: var(--color-ice);
+}
+
+.glass-panel {
+  background: color-mix(in srgb, var(--color-night) 70%, transparent);
+  border: 1px solid color-mix(in srgb, var(--color-ice) 12%, transparent);
+  box-shadow:
+    0 20px 80px rgba(12, 5, 22, 0.65),
+    inset 0 1px 0 rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(24px);
+}
+
+.border-lux {
+  border-image: linear-gradient(120deg, #809cc1, #8ba7ff 60%, #efefef) 1;
+}
+
+.accent-gradient-primary {
+  background-image: linear-gradient(135deg, #261e3e, #414a6c 60%, #809cc1);
+}
+
+.accent-gradient-secondary {
+  background-image: linear-gradient(135deg, #2b3153, #505870 55%, #efefef);
+}
+
+.grid-overlay::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(transparent 95%, rgba(239, 239, 239, 0.05) 96%),
+    linear-gradient(90deg, transparent 95%, rgba(239, 239, 239, 0.05) 96%);
+  background-size: 80px 80px;
+  pointer-events: none;
+  opacity: 0.35;
+}
+
+.soft-sheen {
+  position: relative;
+  overflow: hidden;
+}
+
+.soft-sheen::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    circle at top right,
+    rgba(128, 156, 193, 0.25),
+    transparent 55%
+  );
+  pointer-events: none;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--color-highlight) 70%, transparent);
+  color: var(--color-night);
+}
