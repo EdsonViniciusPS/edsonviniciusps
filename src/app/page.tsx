@@ -94,7 +94,7 @@ const experience = [
 const contactLinks = [
   {
     label: "Email",
-    description: "Projetos, consultorias e collabs",
+    description: "Projetos e consultorias",
     href: "mailto:hello@edsonvinicius.dev",
     icon: EnvelopeSimple,
   },
