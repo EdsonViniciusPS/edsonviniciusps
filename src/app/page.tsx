@@ -16,20 +16,20 @@ import {
 import { Section } from "@/components/section";
 
 const heroStats = [
-  { label: "Anos construindo produtos", value: "08+" },
-  { label: "Deploys/ano", value: "120" },
+  { label: "Anos construindo produtos", value: "04+" },
+  { label: "Deploys", value: "120" },
   { label: "Time zones atendidos", value: "04" },
-  { label: "NPS médio", value: "79" },
+  { label: "NPS médio", value: "100%" },
 ];
 
 const stackGroups = [
   {
     title: "Frontend",
-    items: ["Next.js", "React 19", "Tailwind 4", "Framer Motion"],
+    items: ["Next.js", "React 19", "Tailwind 4", "Framer Motion", "Flutter"],
   },
   {
     title: "Backend & Cloud",
-    items: ["Node/Nest", "Edge & Serverless", "Postgres", "AWS/GCP"],
+    items: ["Node/Nest", "Python", "Edge & Serverless", "Postgres", "AWS/GCP"],
   },
   {
     title: "Product+",
