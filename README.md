@@ -1,45 +1,50 @@
-## Portfólio — Edson Vinicius (Full-stack Engineer)
+👋 Olá, eu sou Edson
 
-Landing-page moderna construída com Next.js 16 (App Router) para destacar o trabalho fullstack de Edson Vinicius. O layout mistura as paletas:
+Sou desenvolvedor de software com foco em aplicações multiplataforma, backend, jogos e tecnologias imersivas, atuando desde a concepção até a entrega de soluções escaláveis e bem arquitetadas.
 
-- **Paleta 01**: `#261E3E`, `#809CC1`, `#414A6C`, `#0C0516`
-- **Paleta 02**: `#2B3153`, `#86939B`, `#EFEFEF`, `#505870`
+Tenho experiência prática com desenvolvimento de aplicações web e mobile, jogos, sistemas backend, automações, IA e experiências imersivas (RA, VR e XR).
 
-### Principais recursos
+🚀 Áreas de atuação
 
-- **Next.js + TypeScript** no modo App Router com fontes Geist.
-- **Tailwind CSS 4** com glassmorphism, gradientes e utilitários personalizados.
-- **Framer Motion** para micro-interações (hero, cards e seções).
-- **Phosphor Icons** com ícones SSR-friendly para manter o visual premium/contemporâneo.
-- Componentização (`Section`) para reaproveitar o padrão de heading + conteúdos.
+🎮 Desenvolvimento de Jogos (2D, 3D, multiplayer, educativos)
 
-## Estrutura
+📱 Aplicações Mobile (Android & iOS)
 
-- `src/app/page.tsx` — Página principal com hero, stack, projetos, experiência e contato.
-- `src/components/section.tsx` — Wrapper animado reutilizável para cada bloco.
-- `src/app/globals.css` — Variáveis de cor, planos de fundo e utilitários estéticos.
+🌐 Aplicações Web modernas
 
-## Como rodar
+🧠 Backends, APIs e automações
 
-```bash
-npm install
-npm run dev
-```
+🤖 IA e chatbots (WhatsApp, APIs inteligentes)
 
-Abra [http://localhost:3000](http://localhost:3000) para visualizar. O hot reload está ativado por padrão.
+🕶️ Realidade Aumentada (RA), Realidade Virtual (VR) e XR
 
-### Scripts adicionais
+🧩 Experiências imersivas e interativas
 
-- `npm run lint` — Executa o ESLint com as regras do Next.js.
-- `npm run build` — Build de produção (+ geração de route types).
-- `npm run start` — Sobe o servidor após o build.
 
-## Customização
+🧠 Tecnologias e Ferramentas
 
-- **Conteúdo**: atualize as coleções em `src/app/page.tsx` (`stackGroups`, `projects`, etc.).
-- **Paleta**: ajuste os tokens em `src/app/globals.css` (`--color-*`).
-- **Seções extras**: reutilize `<Section />` para manter o padrão visual + animações.
+Linguagens
 
-## Deploy
+C# · Python · Java · Dart · Swift · JavaScript · TypeScript
 
-O projeto está pronto para deploy no Vercel (recomendado). Basta importar o repositório, definir as variáveis necessárias (se houver APIs externas) e usar o build padrão `npm run build`.
+Frameworks, Engines e Plataformas
+
+Jogos & Imersão:
+Unity · Photon · AR Foundation · VR/XR Toolkit · Three.js · A-Frame · MindAR
+
+Mobile:
+Flutter · Swift (iOS nativo)
+
+Web:
+Next.js · React · Node.js
+
+Backend:
+FastAPI · Flask · Spring Boot · Quarkus
+
+Banco de Dados
+
+PostgreSQL · SQLite · Firebase (Firestore / Auth)
+
+DevOps & Outros
+
+Docker · Git · Linux · n8n · APIs REST · WebSockets · MediaPipe
