@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- BANNER - capsule-render funciona nativamente no GitHub -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Edson&fontSize=80&fontColor=00FFB2&animation=twinkling&desc=Software%20Developer%20%C2%B7%20Games%20%C2%B7%20XR%20%C2%B7%20Backend%20%C2%B7%20AI&descSize=18&descAlignY=75&descAlign=50" width="100%"/>
-
-<!-- [CUSTOMIZE: Troque "edson-dev" pelo seu username do GitHub em todos os badges abaixo] -->
 
 ![Visitors](https://komarev.com/ghpvc/?username=edson-dev&style=for-the-badge&color=00FFB2&labelColor=0d0d0d&label=PROFILE+VIEWS)
 &nbsp;
@@ -19,12 +16,12 @@
 
 ```typescript
 const edson = {
-  role:     "Software Developer",
+  name:     "Edson Vinicius Pereira da Silva",
+  role:     "Software Developer · CEO @ Lunae Solutions",
   focus:    ["Multiplataforma", "Backend", "Games", "XR", "IA"],
   location: "Brasil 🇧🇷",
 
-  // [CUSTOMIZE: Atualize esses campos]
-  workingOn:  "Jogo multiplayer educativo com Unity + Photon",
+  workingOn:  "Projetos da Lunae Solutions",
   learning:   "WebXR · LLMs · Computação Gráfica Avançada",
   lookingFor: "Projetos desafiadores em Games, XR e IA",
 
@@ -32,7 +29,7 @@ const edson = {
 };
 ```
 
-> 💡 Tenho experiência prática com desenvolvimento de aplicações web e mobile, jogos, sistemas backend, automações, IA e experiências imersivas (RA, VR e XR).
+> 💡 Tenho experiência prática com desenvolvimento de aplicações web e mobile, jogos, sistemas backend, automações, IA e experiências imersivas (RA, VR e XR). CEO da [**Lunae Solutions**](https://lunaesolutions.com.br), empresa focada em soluções tecnológicas inovadoras.
 
 ---
 
@@ -43,9 +40,9 @@ const edson = {
 | | Área | Destaque |
 |:---:|---|---|
 | 🎮 | **Jogos** | 2D · 3D · Multiplayer · Educativos |
-| 📱 | **Mobile** | Android · iOS (nativo e cross-platform) |
-| 🌐 | **Web** | Aplicações modernas e performáticas |
-| 🧠 | **Backend & APIs** | Sistemas escaláveis e automações |
+| 📱 | **Mobile** | Flutter · Swift · Android · iOS |
+| 🌐 | **Web** | Next.js · React · Aplicações modernas e performáticas |
+| 🧠 | **Backend & APIs** | Sistemas escaláveis e automações com Python |
 | 🤖 | **IA & Chatbots** | WhatsApp · APIs inteligentes |
 | 🕶️ | **RA · VR · XR** | Experiências imersivas e interativas |
 
@@ -123,8 +120,6 @@ const edson = {
 
 ## 📊 GitHub Stats
 
-<!-- [CUSTOMIZE: Temas disponíveis: github_dark · tokyonight · radical · dracula · dark · onedark · nightowl] -->
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edson-dev&show_icons=true&theme=github_dark&bg_color=0d0d0d&border_color=00FFB2&title_color=00FFB2&icon_color=00C2FF&text_color=8892A4&count_private=true&include_all_commits=true"/>
@@ -153,8 +148,6 @@ const edson = {
 
 ## 🏆 Conquistas
 
-<!-- [CUSTOMIZE: Temas: algolia · flat · radical · tokyonight · dracula · gruvbox · onedark · monokai] -->
-
 <div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=edson-dev&theme=algolia&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
@@ -165,14 +158,13 @@ const edson = {
 
 ## 🌐 Conecte-se
 
-<!-- [CUSTOMIZE: Substitua os links pelos seus reais · Descomente as redes que quiser adicionar] -->
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edsondev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00FFB2)](https://edsondev.vercel.app)
+[![Lunae Solutions](https://img.shields.io/badge/Lunae%20Solutions-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00FFB2)](https://lunaesolutions.com.br)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edson@email.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999999999)
+[![WhatsApp Pessoal](https://img.shields.io/badge/WhatsApp%20Pessoal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999904507)
+[![WhatsApp Lunae](https://img.shields.io/badge/WhatsApp%20Lunae-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581984676267)
 
 </div>
 
