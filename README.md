@@ -160,9 +160,9 @@ const edson = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edsondev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonviniciuspereira/)
 [![Lunae Solutions](https://img.shields.io/badge/Lunae%20Solutions-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00FFB2)](https://lunaesolutions.com.br)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edson@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:viniciuspereira76@hotmail.com)
 [![WhatsApp Pessoal](https://img.shields.io/badge/WhatsApp%20Pessoal-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581999904507)
 [![WhatsApp Lunae](https://img.shields.io/badge/WhatsApp%20Lunae-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581984676267)
 
