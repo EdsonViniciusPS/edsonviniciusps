@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Edson&fontSize=80&fontColor=00FFB2&animation=twinkling&desc=Software%20Developer%20%C2%B7%20Games%20%C2%B7%20XR%20%C2%B7%20Backend%20%C2%B7%20AI&descSize=18&descAlignY=75&descAlign=50" width="100%"/>
 
-![Visitors](https://komarev.com/ghpvc/?username=edson-dev&style=for-the-badge&color=00FFB2&labelColor=0d0d0d&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=EdsonViniciusPS&style=for-the-badge&color=00FFB2&labelColor=0d0d0d&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/edson-dev?style=for-the-badge&color=00C2FF&labelColor=0d0d0d&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/EdsonViniciusPS?style=for-the-badge&color=00C2FF&labelColor=0d0d0d&label=FOLLOWERS)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/edson-dev?style=for-the-badge&color=B44DFF&labelColor=0d0d0d&label=TOTAL+STARS)
+![GitHub stars](https://img.shields.io/github/stars/EdsonViniciusPS?style=for-the-badge&color=B44DFF&labelColor=0d0d0d&label=TOTAL+STARS)
 
 </div>
 
@@ -16,16 +16,16 @@
 
 ```typescript
 const edson = {
-  name:     "Edson Vinicius Pereira da Silva",
-  role:     "Software Developer · CEO @ Lunae Solutions",
-  focus:    ["Multiplataforma", "Backend", "Games", "XR", "IA"],
-  location: "Brasil 🇧🇷",
+  name:     "Edson Vinicius Pereira da Silva",
+  role:     "Software Developer · CEO @ Lunae Solutions",
+  focus:    ["Multiplataforma", "Backend", "Games", "XR", "IA"],
+  location: "Brasil 🇧🇷",
 
-  workingOn:  "Projetos da Lunae Solutions",
-  learning:   "WebXR · LLMs · Computação Gráfica Avançada",
-  lookingFor: "Projetos desafiadores em Games, XR e IA",
+  workingOn:  "Projetos da Lunae Solutions",
+  learning:   "WebXR · LLMs · Computação Gráfica Avançada",
+  lookingFor: "Projetos desafiadores em Games, XR e IA",
 
-  philosophy: "Da concepção à entrega — soluções escaláveis e bem arquitetadas 🚀",
+  philosophy: "Da concepção à entrega — soluções escaláveis e bem arquitetadas 🚀",
 };
 ```
 
@@ -122,15 +122,15 @@ const edson = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edson-dev&show_icons=true&theme=github_dark&bg_color=0d0d0d&border_color=00FFB2&title_color=00FFB2&icon_color=00C2FF&text_color=8892A4&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdsonViniciusPS&show_icons=true&theme=github_dark&bg_color=0d0d0d&border_color=00FFB2&title_color=00FFB2&icon_color=00C2FF&text_color=8892A4&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-dev&layout=compact&theme=github_dark&bg_color=0d0d0d&border_color=00FFB2&title_color=00FFB2&text_color=8892A4&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonViniciusPS&layout=compact&theme=github_dark&bg_color=0d0d0d&border_color=00FFB2&title_color=00FFB2&text_color=8892A4&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=edson-dev&theme=dark&background=0d0d0d&border=00FFB2&ring=00FFB2&fire=00C2FF&currStreakLabel=B44DFF&sideLabels=8892A4&dates=8892A4)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EdsonViniciusPS&theme=dark&background=0d0d0d&border=00FFB2&ring=00FFB2&fire=00C2FF&currStreakLabel=B44DFF&sideLabels=8892A4&dates=8892A4)](https://git.io/streak-stats)
 
 </div>
 
@@ -140,7 +140,7 @@ const edson = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edson-dev&bg_color=0d0d0d&color=00FFB2&line=00C2FF&point=B44DFF&area=true&border_color=00FFB2&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EdsonViniciusPS&bg_color=0d0d0d&color=00FFB2&line=00C2FF&point=B44DFF&area=true&border_color=00FFB2&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -150,7 +150,7 @@ const edson = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=edson-dev&theme=algolia&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=EdsonViniciusPS&theme=algolia&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
